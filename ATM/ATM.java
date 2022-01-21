@@ -315,11 +315,11 @@ public class ATM{
         System.out.flush();
         trueUser();
     }    public static void createUser() {
-        u[0]=new UserDetails("rithik", 1234, 12000.00,"ra123","1234567","","RBI",0,0);
-        u[1]=new UserDetails("raghul", 4321, 15000.00,"ra123","1234565","","RBI",0,0);
-        u[2]=new UserDetails("ram", 1423, 14500.00,"rb123","1234563","","SBI",0,0);
-        u[3]=new UserDetails("rishi", 3241, 11500.00,"rb123","1234561","","SBI",0,0);
-        u[4]=new UserDetails("rakesh", 2314, 15700.00,"ra123","1234569","","RBI",0,0);
+        u[0]=new UserDetails("Ragu", 1234, 12000.00,"ra123","1234567","","RBI",0,0);
+        u[1]=new UserDetails("Raghul", 4321, 15000.00,"ra123","1234565","","RBI",0,0);
+        u[2]=new UserDetails("Ramani", 1423, 14500.00,"rb123","1234563","","SBI",0,0);
+        u[3]=new UserDetails("Rithi", 3241, 11500.00,"rb123","1234561","","SBI",0,0);
+        u[4]=new UserDetails("Suresh", 2314, 15700.00,"ra123","1234569","","RBI",0,0);
     }
     public static void flush() {
         System.out.print("\033[H\033[2J");  
