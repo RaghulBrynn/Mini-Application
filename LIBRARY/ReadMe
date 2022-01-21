@@ -1,0 +1,44 @@
+                                        AMAZON
+----------------------------------------------------------------------------------------
+<ADMIN>
+
+Login:
+
+    1.  username: admin1       password:123
+    2.  username:admin2        password:456
+    
+Functions:
+
+    1.Adding vendor.
+    2.Removing Vendor.
+    3.Approving vendor.
+    4.View Vendor.
+
+----------------------------------------------------------------------------------------
+
+<VENDOR>
+
+Functions:
+
+    1.Creating Account.
+    2.Login account.
+    3.Add Product.
+    4.View Product.
+    5.Remove product.
+
+----------------------------------------------------------------------------------------
+
+<CUSTOMER>
+
+Functions:
+
+    1.Sign In.
+    2.Sign Up.
+    3.Search Product.
+    4.Filter Product.
+    5.Compare Product.
+    6.View Cart.
+    7.View Order.
+
+
+
