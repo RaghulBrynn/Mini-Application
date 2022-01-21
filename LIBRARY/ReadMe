@@ -1,44 +1,38 @@
-                                        AMAZON
+                                        LIBRARY
 ----------------------------------------------------------------------------------------
 <ADMIN>
 
 Login:
 
     1.  username: admin1       password:123
-    2.  username:admin2        password:456
+    2.  username: admin2       password:456
     
 Functions:
 
-    1.Adding vendor.
-    2.Removing Vendor.
-    3.Approving vendor.
-    4.View Vendor.
+    1.Adding Admin.
+    2.Adding Borrower.
+    3.Adding Book.
+    4.Modifying the Book.
+    5.View Reports.
+    6.View all books.
+    7.Search Book.
+    8.Manage Fines.
 
 ----------------------------------------------------------------------------------------
 
-<VENDOR>
+<BORROWER>
 
 Functions:
 
-    1.Creating Account.
-    2.Login account.
-    3.Add Product.
-    4.View Product.
-    5.Remove product.
-
-----------------------------------------------------------------------------------------
-
-<CUSTOMER>
-
-Functions:
-
-    1.Sign In.
-    2.Sign Up.
-    3.Search Product.
-    4.Filter Product.
-    5.Compare Product.
-    6.View Cart.
-    7.View Order.
+    1.View all book.
+    2.Search Book.
+    3.Cart
+    4.Return book.
+    5.Lost.
+    6.Check Balance. 
+    7.Deposit.
+    8.View my fines.
+    9.View my borrows
 
 
 
