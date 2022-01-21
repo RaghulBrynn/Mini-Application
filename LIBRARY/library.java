@@ -682,7 +682,8 @@ public class library {
         s+=s;
     }
     public static void adm(){
-        admins.add(new Admin("admin","1234"));
+        admins.add(new Admin("admin1","123"));
+        admins.add(new Admin("admin2","456"));
     }
 }
 class Admin{
