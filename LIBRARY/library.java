@@ -17,7 +17,7 @@ public class library {
     }
     public static void home(){
         System.out.println("-----Welcome to our library-----");
-        System.out.println("1. Adminstrator");
+        System.out.println("1. Admin");
         System.out.println("2. Borrower");
         System.out.println("3. Exit");
         int a = scanner.nextInt();
