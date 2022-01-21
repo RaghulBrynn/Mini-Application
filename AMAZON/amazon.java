@@ -119,8 +119,9 @@ public class amazon {
         sc.nextLine();
         for (int i = 0; i < newV.size(); i++) {
             System.out.println(newV.get(i));
+            System.out.println("Press yes to Approve!!");
             String s=sc.nextLine();
-            if(s.equals("yes")){
+            if(s.equalsIgnoreCase("yes")){
                 System.out.println("Approved!!");
                 newV1.set(i,1);
             }
@@ -128,6 +129,7 @@ public class amazon {
                 System.out.println("Declined :(");
                 newV1.set(i,0); 
             }
+            admin();
         }
         
     }
@@ -210,6 +212,7 @@ public class amazon {
                 }
                 else if(newV1.get(index1)==-1){
                     System.out.println("Waiting for approval");
+                    
                 }else{
                     System.out.println("Sorry, you are not authorized :(");
                 }
@@ -221,7 +224,7 @@ public class amazon {
             }
 
         }
-        admin();
+        vendor();
     }
     public static boolean contain(String s) {            
         for (int i = 0; i < newV.size(); i++) {
