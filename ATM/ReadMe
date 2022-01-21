@@ -1,44 +1,44 @@
-                                        AMAZON
+                                        ATM
 ----------------------------------------------------------------------------------------
 <ADMIN>
 
 Login:
 
     1.  username: admin1       password:123
-    2.  username:admin2        password:456
+    2.  username: admin2       password:456
     
 Functions:
-
-    1.Adding vendor.
-    2.Removing Vendor.
-    3.Approving vendor.
-    4.View Vendor.
+    
+    1.Adding money.
+    2.Show added amount.
+    3.Show ATM balance.
+    
 
 ----------------------------------------------------------------------------------------
 
-<VENDOR>
+<USER>
+
+Login:
+
+  Name    Pass   Balance    IFSC    Acc.NO    Bank
+1.Ragu    1234   12000.00   ra123   1234567   RBI
+2.Raghul  4321   15000.00   ra123   1234565   RBI
+3.Ramani  1423   14500.00   rb123   1234563   SBI
+4.Rithi   3241   11500.00   rb123   1234561   SBI
+5.Suresh  2314   15700.00   ra123   1234569   RBI
 
 Functions:
 
     1.Creating Account.
     2.Login account.
-    3.Add Product.
-    4.View Product.
-    5.Remove product.
+    3.Withdraw.
+    4.Deposit.
+    5.Balance.
+    6.Change pin.
+    7.Transaction.
+    8.Mini statement.
 
-----------------------------------------------------------------------------------------
 
-<CUSTOMER>
-
-Functions:
-
-    1.Sign In.
-    2.Sign Up.
-    3.Search Product.
-    4.Filter Product.
-    5.Compare Product.
-    6.View Cart.
-    7.View Order.
 
 
 
