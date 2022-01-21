@@ -47,7 +47,7 @@ public class ATM{
         System.out.print("Enter PassWord : ");
         int pass = scanner.nextInt();
         flush();
-        if((name.equals("admin") && pass==12345) || (name.equals("manager") && pass==54321)) trueAdmin();
+        if((name.equals("admin1") && pass==123) || (name.equals("admin2") && pass==456)) trueAdmin();
         else{
             System.out.println("Please Check Your Login Credentials");
             home();
