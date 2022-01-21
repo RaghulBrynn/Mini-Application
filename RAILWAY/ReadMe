@@ -1,44 +1,21 @@
-                                        AMAZON
+                                        RAILWAY
 ----------------------------------------------------------------------------------------
-<ADMIN>
 
-Login:
 
-    1.  username: admin1       password:123
-    2.  username:admin2        password:456
+<USER LOGIN>
+
+Functions:
     
-Functions:
-
-    1.Adding vendor.
-    2.Removing Vendor.
-    3.Approving vendor.
-    4.View Vendor.
-
-----------------------------------------------------------------------------------------
-
-<VENDOR>
-
-Functions:
-
-    1.Creating Account.
+    1.Creating an account.
     2.Login account.
-    3.Add Product.
-    4.View Product.
-    5.Remove product.
+    3.Book tickets.
+    4.Cancel Tickets.
+    5.View my tickets.
+    6.Check Availability.
 
 ----------------------------------------------------------------------------------------
 
-<CUSTOMER>
 
-Functions:
-
-    1.Sign In.
-    2.Sign Up.
-    3.Search Product.
-    4.Filter Product.
-    5.Compare Product.
-    6.View Cart.
-    7.View Order.
 
 
 
